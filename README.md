@@ -19,7 +19,7 @@ The objectives of this project are:
 ---
 
 ## 2. Dataset
-The dataset used is the **Pima Indians Diabetes Dataset**, a well-known benchmark in biomedical machine learning.
+The dataset used is the **UCI Diabetes Dataset**, a well-known benchmark in biomedical machine learning.
 
 ### Features:
 - Glucose concentration  
